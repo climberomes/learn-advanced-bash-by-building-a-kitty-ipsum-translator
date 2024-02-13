@@ -76,3 +76,4 @@ cat < name.txt
 __vsc_prompt_cmd_original
 echo bob
 touch script.sh
+chmod +x script.sh
