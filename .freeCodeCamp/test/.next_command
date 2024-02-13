@@ -56,3 +56,8 @@ bad_command > stderr.txt
 bad_command 2> stderr.txt
 stdout > stdout.txt
 echo hello bash > stdout.txt
+echo hello bash > stdout.txt
+echo hello bash > stdout.txt
+echo hello bash1 > stdout.txt
+echo hello bash2 > stdout.txt
+read NAME
