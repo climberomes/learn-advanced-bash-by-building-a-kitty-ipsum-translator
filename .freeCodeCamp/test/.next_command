@@ -63,3 +63,5 @@ echo hello bash2 > stdout.txt
 read NAME
 __vsc_prompt_cmd_original
 echo $NAME
+echo $NAME > stdoout.txt
+echo $NAME > stdout.txt
