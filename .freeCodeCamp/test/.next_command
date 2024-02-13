@@ -71,3 +71,4 @@ echo $NAME
 echo Bob
 echo $NAME
 cat
+cat name.txt
