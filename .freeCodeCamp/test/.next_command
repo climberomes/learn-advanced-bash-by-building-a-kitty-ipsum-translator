@@ -80,3 +80,5 @@ chmod +x script.sh
 echo
 echo "read $NAME" >> script.sh
 echo "read NAME" >> script.sh
+script.sh
+./script.sh
